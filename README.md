@@ -1,2 +1,2 @@
-# zomato-SpatialAnalysis
-Geospatial Analysis of the restaurants with Zomato service.
+# Geospatial Analysis of the restaurants with Zomato service.
+Using the heatmap and marker cluster.
